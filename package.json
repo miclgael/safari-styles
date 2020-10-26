@@ -1,0 +1,25 @@
+{
+  "name": "safari-styles",
+  "version": "1.0.0",
+  "description": "A custom stylesheet for Safari / Webkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass src/style.scss dest/style.css",
+    "sass": "node-sass src/style.scss dest/style.css",
+    "sass:watch": "node-sass src/style.scss dest/style.css --watch",
+    "scss:watch": "node-sass src/style.scss dest/style.css --watch"
+  },
+  "keywords": [
+    "Safari",
+    "CSS"
+  ],
+  "repository": {
+    "url": "https://github.com/miclgael/safari-styles.git"
+  },
+  "author": "Michael Gale <michael@michaelgale.dev>",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

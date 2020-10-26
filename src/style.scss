@@ -1,0 +1,4 @@
+// Hide subscribe button on twitch.tv
+[data-a-target="subscribed-button"] {
+  display: none !important;
+}
