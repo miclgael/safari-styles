@@ -1,10 +1,19 @@
-// Hide subscribe button on twitch.tv
+//
+// TWITCH.TV
+// 
+
+// Hide subscribe button
 [data-a-target="subscribed-button"] {
   display: none !important;
 }
 
-// Hide twitter Lists button
+//
+// TWITTER.COM
+// 
+
+// Hide lists button
 [href="/miclgael/lists"],
-section[role="region"] {
+// Hide news feed 
+div[aria-label="Timeline: Your Home Timeline"] {
   display: none !important;
 }

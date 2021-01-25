@@ -2,5 +2,5 @@
   display: none !important; }
 
 [href="/miclgael/lists"],
-section[role="region"] {
+div[aria-label="Timeline: Your Home Timeline"] {
   display: none !important; }
