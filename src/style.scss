@@ -2,3 +2,9 @@
 [data-a-target="subscribed-button"] {
   display: none !important;
 }
+
+// Hide twitter Lists button
+[href="/miclgael/lists"],
+section[role="region"] {
+  display: none !important;
+}

@@ -1,2 +1,6 @@
 [data-a-target="subscribed-button"] {
   display: none !important; }
+
+[href="/miclgael/lists"],
+section[role="region"] {
+  display: none !important; }
