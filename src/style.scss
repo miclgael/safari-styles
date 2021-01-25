@@ -13,7 +13,14 @@
 
 // Hide lists button
 [href="/miclgael/lists"],
+
+// Hide trending list
+[aria-label="Timeline: Trending now"],
+
+// Hide suggested follow list
+[aria-label="Who to follow"],
+
 // Hide news feed 
-div[aria-label="Timeline: Your Home Timeline"] {
+[aria-label="Timeline: Your Home Timeline"] {
   display: none !important;
 }

@@ -2,5 +2,7 @@
   display: none !important; }
 
 [href="/miclgael/lists"],
-div[aria-label="Timeline: Your Home Timeline"] {
+[aria-label="Timeline: Trending now"],
+[aria-label="Who to follow"],
+[aria-label="Timeline: Your Home Timeline"] {
   display: none !important; }
