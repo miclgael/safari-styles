@@ -1,5 +1,7 @@
 # MG's Safari Styles
 
+> Archived 2023-05-12
+
 I made this to hide Twitch Subscribe buttons because I'm addicted to them and going broke 💕 
 
 ![Safari preferences window showing "Advanced" > "Stylesheet"](img/prefs.png)
